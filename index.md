@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 http://www.wsbedu.com/xiaox/rjs42kb.asp 数学
 http://www.wsbedu.com/xiaox/ry42kb.asp 语文
 
+http://www.dzkbw.com/books/rjb/
+
+
+http://www.dzkbw.com/books/rjb/yuwen/xs4x/
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
