@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/puke100/1/edit/master/inde
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+http://www.wsbedu.com/xiaox/rjs42kb.asp 数学
+http://www.wsbedu.com/xiaox/ry42kb.asp 语文
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
